@@ -60,3 +60,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
     </tbody>
 </table>
+<!-- ## About this Fork
+This project is a fork of the original repository.
+The README has been updated to reflect personal modifications. -->
